@@ -1,0 +1,12 @@
+venv
+.vscode
+__pycache__
+data
+logs
+/interface/__pycache__
+/process/__pycache__
+/utils/__pycache__
+/utils/balance_checker/__pycache__
+/utils/volume_maker/__pycache__
+/utils/wallet_creator/__pycache__
+.env
